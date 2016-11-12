@@ -2,12 +2,16 @@
   "name": "select2-foundation",
   "version": "0.0.2",
   "description": "Select2 Foundation Theme",
+  "main": [
+    "js/motion.js",
+    "sass/motion.scss"
+  ]
   "author": {
     "name": "William Wedler"
   },
   "dependencies": {
     "grunt-contrib-watch": "^0.6.1",
-    "grunt-sass": "^1.1.0"
+    "grunt-sass": "^1.0.0"
   },
   "devDependencies": {
     "grunt": "~0.4.5"
