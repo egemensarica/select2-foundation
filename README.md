@@ -14,12 +14,11 @@ In order to apply select2-foundation theme to your project, add the following fi
     <link rel="stylesheet" href="select2-foundation-theme.css">
 
 ### Bower
-
-  "dependencies": {
-    "foundation-sites" : "latest",
+<pre><code>"dependencies": {
+    "foundation-sites" : "^6.0.0",
     "select2" : "latest",
     "select2-foundation" : "https://github.com/egemensarica/select2-foundation.git#v6"
-  }
+  }</code></pre>
 
 ### Apply the theme
 
