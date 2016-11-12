@@ -9,8 +9,8 @@
     "name": "William Wedler"
   },
   "dependencies": {
-    "grunt-contrib-watch": "^0.6.1",
-    "grunt-contrib-sass": "^1.0.0"
+"foundation-sites" : "^6.0.0",
+"select2" : "latest",
   },
   "devDependencies": {
     "grunt": "~0.4.5"
