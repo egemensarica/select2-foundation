@@ -2,8 +2,7 @@
   "name": "select2-foundation",
   "version": "0.0.2",
   "author": {
-    "name": "William Wedler",
-    "url": "https://github.com/zflat/select2-foundation"
+    "name": "William Wedler"
   },
   "description": "Select2 Foundation Theme",
   "dependencies": {
