@@ -1,10 +1,10 @@
 {
   "name": "select2-foundation",
   "version": "0.0.2",
+  "description": "Select2 Foundation Theme",
   "author": {
     "name": "William Wedler"
   },
-  "description": "Select2 Foundation Theme",
   "dependencies": {
     "grunt-contrib-watch": "^0.6.1",
     "grunt-sass": "^1.1.0"
@@ -13,7 +13,9 @@
     "grunt": "~0.4.5"
   },
   "keywords": [
-    "Select2 Foundation", "select2", "Foundation"
+    "Select2 Foundation",
+    "select2",
+    "Foundation"
   ],
    "ignore": [
     ".gitignore",
@@ -27,7 +29,5 @@
     "lib/select2_foundation/**",
     "lib/tasks/**",
     "lib/select2-foundation.rb"
-
-    
-  ],
+ ]
 }
