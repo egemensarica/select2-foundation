@@ -3,8 +3,7 @@
   "version": "0.0.2",
   "description": "Select2 Foundation Theme",
   "main": [
-    "js/motion.js",
-    "sass/motion.scss"
+    "./dist/select2-foundation-theme.css"
   ]
   "author": {
     "name": "William Wedler"
