@@ -4,7 +4,7 @@
   "description": "Select2 Foundation Theme",
   "main": [
     "./dist/select2-foundation-theme.css"
-  ]
+  ],
   "author": {
     "name": "William Wedler"
   },
