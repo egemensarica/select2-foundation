@@ -22,10 +22,8 @@
   ],
    "ignore": [
     ".gitignore",
-     "Gruntfile",
     "Gemfile",
     "README.md",
-     
     "Rakefile",
     "select2-foundation.gemspec",
     "test",
