@@ -22,9 +22,7 @@
   ],
    "ignore": [
     ".gitignore",
-     ".gitkeep",
-     "package.json",
-      "package.js",
+    ".gitkeep",
     "Gemfile",
     "README.md",
     "Rakefile",
