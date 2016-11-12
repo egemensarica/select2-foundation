@@ -10,7 +10,7 @@
   },
   "dependencies": {
 "foundation-sites" : "^6.0.0",
-"select2" : "latest",
+"select2" : "latest"
   },
   "devDependencies": {
     "grunt": "~0.4.5"
