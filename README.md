@@ -13,27 +13,13 @@ In order to apply select2-foundation theme to your project, add the following fi
     <link rel="stylesheet" href="select2.css">
     <link rel="stylesheet" href="select2-foundation-theme.css">
 
-### Rails (ruby gem)
+### Bower
 
-Installation is similar to installing foundation-rails.
-
-Add to your application's Gemfile:
-
-      gem 'select2-foundation'
-
-#### Configuration from generator
-
-Run the generator for installation
-
-      rails g select2_foundation:install
-
-#### Manual configuration
-
-Create a sass partial app/assets/stylesheets/_settings_select2.scss
-
-Add to your app/assets/stylesheets/application.css:
-
-      *= require select2/select2-foundation
+  "dependencies": {
+    "foundation-sites" : "latest",
+    "select2" : "latest",
+    "select2-foundation" : "https://github.com/egemensarica/select2-foundation.git#v6"
+  }
 
 ### Apply the theme
 
@@ -45,16 +31,6 @@ Configure select2 To apply the theme by passing `foundation` to the theme option
 
 
 ## Development
-
-### Styleguide rails app
-
-Run the styleguide application found under `test/`
-
-      bundle
-
-      bundle exec rails s
-
-Navigate to the root path to view the demo page.
 
 ### Building `dist`
 
